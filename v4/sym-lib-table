@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Watch_V4)(type Legacy)(uri "${KIPRJMOD}/Watch V4.lib")(options "")(descr ""))
+)
